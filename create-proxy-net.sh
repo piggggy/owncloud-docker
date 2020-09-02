@@ -1,0 +1,1 @@
+sudo docker network create --driver bridge nginx-proxy-net
